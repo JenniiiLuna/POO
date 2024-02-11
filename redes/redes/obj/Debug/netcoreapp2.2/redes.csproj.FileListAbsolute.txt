@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\redes\redes\bin\Debug\netcoreapp2.2\redes.deps.json
+C:\Users\oscar\source\repos\redes\redes\bin\Debug\netcoreapp2.2\redes.runtimeconfig.json
+C:\Users\oscar\source\repos\redes\redes\bin\Debug\netcoreapp2.2\redes.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\redes\redes\bin\Debug\netcoreapp2.2\redes.dll
+C:\Users\oscar\source\repos\redes\redes\bin\Debug\netcoreapp2.2\redes.pdb
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.AssemblyInfo.cs
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.dll
+C:\Users\oscar\source\repos\redes\redes\obj\Debug\netcoreapp2.2\redes.pdb

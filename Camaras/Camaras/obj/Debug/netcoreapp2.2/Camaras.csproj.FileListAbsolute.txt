@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.AssemblyInfo.cs
+C:\Users\oscar\source\repos\Camaras\Camaras\bin\Debug\netcoreapp2.2\Camaras.deps.json
+C:\Users\oscar\source\repos\Camaras\Camaras\bin\Debug\netcoreapp2.2\Camaras.runtimeconfig.json
+C:\Users\oscar\source\repos\Camaras\Camaras\bin\Debug\netcoreapp2.2\Camaras.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\Camaras\Camaras\bin\Debug\netcoreapp2.2\Camaras.dll
+C:\Users\oscar\source\repos\Camaras\Camaras\bin\Debug\netcoreapp2.2\Camaras.pdb
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.dll
+C:\Users\oscar\source\repos\Camaras\Camaras\obj\Debug\netcoreapp2.2\Camaras.pdb
